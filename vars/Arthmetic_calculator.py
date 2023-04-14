@@ -8,10 +8,10 @@ sub = int(num1)-int(num2)
 mul = int(num1)*int(num2)
 div = int(num1)/int(num2)
 if(int(option) == 1):
-  print(add )
+  print(add)
 if(int(option) == 2):
-  print(sub )
+  print(sub)
 if(int(option) == 3):
-  print(mul )
+  print(mul)
 if(int(option) == 4):
-  print(div )
+  print(div)
